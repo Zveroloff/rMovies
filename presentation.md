@@ -53,3 +53,5 @@ head(movies,1)
 App UI
 ========================================================
 Here's the screenshot of App UI
+
+![UI screenshot](images/UI.png)
